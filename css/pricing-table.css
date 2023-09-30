@@ -464,10 +464,14 @@ xkeyframes
     background-color: #fef2f4;
     padding: 30px 0;
 }
-.pricing-head i{
+.pricing-head img{
     font-size: 50px;
+    justify-self: center;
+    justify-content: center;
+    text-align: center;
+    width: 150px;
     margin-bottom: 20px;
-    display: block;
+    /* display: block; */
 }
 .pricing-head h3{
     font-size: 42px;
