@@ -1150,7 +1150,7 @@ ul.nav > li > a.active {
 /*========== Dropdown Style ==========*/
 #mainmenu li ul {
     background-color: #fff;
-    width: 200px;
+    width: 180px;
     height: auto;
     position: absolute;
     left: 0;
@@ -1198,7 +1198,8 @@ ul.nav > li > a.active {
     padding-bottom: 10px;
 }
 #mainmenu li > ul > li:hover a {
-    background-color: #EBA403;
+    background-color: #eba503d5;
+    border-radius: 5px;
     color: #000;
 }
 #mainmenu li > ul ul {
