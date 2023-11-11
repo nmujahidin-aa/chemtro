@@ -2363,7 +2363,7 @@ ul.nav > li > a.active {
     position: relative;
 }
 .blog-item .blog-thumb .category {
-    background-color: #2500f9;
+    background-color: #7E370C;
     padding: 5px 15px;
     text-align: center;
     color: #fff;
@@ -2412,7 +2412,7 @@ ul.nav > li > a.active {
     color: #2500f9;
 }
 .blog-content .read-more:before {
-    background-color: #2500f9;
+    background-color: #7E370C;
     position: absolute;
     content: "";
     width: 30px;
@@ -2449,8 +2449,8 @@ ul.nav > li > a.active {
     text-decoration: none;
 }
 .pagination-wrap li a.active {
-    background-color: #2500f9;
-    border: 1px solid #2500f9;
+    background-color: #7E370C;
+    border: 1px solid #7E370C;
     color: #fff;
 }
 
@@ -2476,7 +2476,7 @@ ul.nav > li > a.active {
     margin-bottom: 30px;
 }
 .sidebar-wrap .widget-content h4:before {
-    background-color: #2500f9;
+    background-color: #7E370C;
     position: absolute;
     content: "";
     width: 20%;
@@ -2574,7 +2574,7 @@ ul.nav > li > a.active {
 }
 .widget-content .tags li a {
     display: inline-block;
-    background-color: #2500f9;
+    background-color: #7E370C;
     padding: 5px 10px;
     border-radius: 2px;
     font-size: 12px;
@@ -2654,7 +2654,7 @@ blockquote span {
 }
 .post-tags li a {
     display: inline-block;
-    background-color: #2500f9;
+    background-color: #7E370C;
     padding: 5px 10px;
     border-radius: 2px;
     font-size: 12px;
